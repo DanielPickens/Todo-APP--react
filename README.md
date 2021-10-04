@@ -19,4 +19,4 @@ npm run build
 npm run deploy
 
 ## The published To-do App:
-
+http://todo-app-beryl-chi.vercel.app/
